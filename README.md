@@ -1,2 +1,3 @@
 # hello-world
-Practice repository setup
+
+Firsrt repository setup for Roger Howard. Testing the setup and outcomes of what this actually does is important.
